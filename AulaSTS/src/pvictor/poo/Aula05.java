@@ -10,7 +10,7 @@ public class Aula05 {
 		p1.getTipo();
 		
 		p1.sacar(150);
-		p1.pagarMensal();
+		//p1.pagarMensal();
 		//p1.fecharConta();
 		
 		p1.estadoAtual();
@@ -21,7 +21,7 @@ public class Aula05 {
 		p2.abrirConta("CP");
 		p2.depositar(500);
 		p2.sacar(100);
-		p2.pagarMensal();
+		//p2.pagarMensal();
 		
 		
 		p2.estadoAtual();
